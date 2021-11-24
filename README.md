@@ -6,3 +6,4 @@
 4. fastai_c5 - datablocks, presizing, learning rate finder
 5. fastaiprac2 - experimenting with datablocks, creating image training set with df, presizig, learning rate finder, discriminative learning rate, fit_one_cycle, fp16
 6. fastai_c6 - datablock API, multi label images, image regression
+7. fastaiprac3 - bear classification by multi label
