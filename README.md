@@ -8,3 +8,4 @@
 6. fastai_c6 - datablock API, multi label images, image regression
 7. fastaiprac3 - bear classification by multi label
 8. fastaiproj1 - classification of images whether the person has worn the mask properly or improperly .
+9. fastaiproj1_deploy - deployment of the first project
