@@ -10,3 +10,4 @@
 8. fastaiproj1 - classification of images whether the person has worn the mask properly or improperly .
 9. fastaiproj1_deploy - deployment of the first project
 10. fireclassification_fastai - classification whether the image has fire or not.
+11. fastai_c7 - normalization, progressive resizing, test time augmentation, Mixup, label smoothing 
