@@ -12,3 +12,4 @@
 10. fireclassification_fastai - classification whether the image has fire or not.
 11. fastai_c7 - normalization, progressive resizing, test time augmentation, Mixup, label smoothing 
 12. fastai_tta - custom test time augmentation
+13. fastai_prog_tta - practicing progressive resizing, test time augmentation
