@@ -13,3 +13,4 @@
 11. fastai_c7 - normalization, progressive resizing, test time augmentation, Mixup, label smoothing 
 12. fastai_tta - custom test time augmentation
 13. fastai_prog_tta - practicing progressive resizing, test time augmentation
+14. fastai_c8 - Embedding, weight decay, collaborative filtering, model from scratch using fastai and pytorch
