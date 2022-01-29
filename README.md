@@ -15,3 +15,4 @@
 13. fastai_prog_tta - practicing progressive resizing, test time augmentation
 14. fastai_c8 - Embedding, weight decay, collaborative filtering, model from scratch using fastai and pytorch
 15. fastai_c9 - tabular models, random forest, partial dependence, feature selection, redundant feature removal, tree interpreter, waterfall charts
+16. fastai_c10 - intro to nlp, tokenization, numericalization, subword tokenization, ULMFIT, language models, IMDB data classification
