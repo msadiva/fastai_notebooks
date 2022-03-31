@@ -18,3 +18,4 @@
 16. fastai_c10 - intro to nlp, tokenization, numericalization, subword tokenization, ULMFIT, language models, IMDB data classification
 17. fastai_c11 - Transforms, TfmdLists, Datasets, Pipelines.
 18. fastai_c11_siamese - Siamese Network 
+19. fastai_ch12 - RNN, LSTM, AWD-LSTM, Dropout, Activation Regularization, Temporal Aactivation Regularization, Weight Tied Regularized LSTM
